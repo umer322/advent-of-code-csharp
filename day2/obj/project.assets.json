@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\C# learning\\advent-of-code\\day2\\day2.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\C# learning\\advent-of-code-csharp\\day2\\day2.csproj",
       "projectName": "day2",
-      "projectPath": "C:\\Users\\PC\\Desktop\\C# learning\\advent-of-code\\day2\\day2.csproj",
+      "projectPath": "C:\\Users\\PC\\Desktop\\C# learning\\advent-of-code-csharp\\day2\\day2.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\C# learning\\advent-of-code\\day2\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\C# learning\\advent-of-code-csharp\\day2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "krgke4hW/GAQqfsCx+Aw6v+CsLojE+cmFZC445dtbkXBVlamkXZ/D/cHLaqQD0R7xCGSSvKqjJpyOwHon3r+hA==",
+  "dgSpecHash": "FZUH1+k9aqx4SfIcTErFbbcxwZ3V8jZqKXaLh4R/lsjT9nP1ULjoETnR1PEf87bTPvOwPk/D3ISozWzvKeaMBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\C# learning\\advent-of-code\\day2\\day2.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\C# learning\\advent-of-code-csharp\\day2\\day2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
